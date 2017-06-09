@@ -1,3 +1,6 @@
+# This file, and the repository it is held in, (https://github.com/danmatthews26/Learn-Python)
+# was created by github user dannymatthews26
+
 # NOTE: It is best to play around with the different things in this file
 # by using a seperate file.
 # NOTE: There are no semi-colons, or brackets in Python.
